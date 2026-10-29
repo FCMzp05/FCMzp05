@@ -10,7 +10,7 @@ Tongji University
 
 I work on phase-field modeling of fracture and fatigue, multiaxial fatigue life prediction, and deep energy methods. The solvers are written in Julia with Gridap and in Python with PyTorch and CUDA.
 
-[Google Scholar](https://scholar.google.com/citations?user=J4Om7WoAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=J4Om7WoAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Peng-Zhang-520)
 
 ## Publications
 
