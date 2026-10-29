@@ -1,8 +1,14 @@
 ### Peng Zhang
 
-Tongji University.
+Tongji University
 
-I received a Bachelor of Engineering from Southwest Jiaotong University in 2023 and joined the School of Aerospace Engineering and Applied Mechanics at Tongji University the same year. I transferred to the Ph.D. program in 2025. I work on phase-field modeling of fracture and fatigue, multiaxial fatigue life prediction, and deep energy methods. The solvers are written in Julia with Gridap and in Python with PyTorch and CUDA.
+**Education**
+
+- 2025–present: Ph.D. student, School of Aerospace Engineering and Applied Mechanics, Tongji University (transferred to the doctoral program)
+- 2023–2025: School of Aerospace Engineering and Applied Mechanics, Tongji University
+- 2023: B.Eng., Southwest Jiaotong University
+
+I work on phase-field modeling of fracture and fatigue, multiaxial fatigue life prediction, and deep energy methods. The solvers are written in Julia with Gridap and in Python with PyTorch and CUDA.
 
 [Google Scholar](https://scholar.google.com/citations?user=J4Om7WoAAAAJ)
 
