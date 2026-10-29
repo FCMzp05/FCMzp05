@@ -4,9 +4,9 @@ Tongji University
 
 **Education**
 
-- 2025–present: Ph.D. student, School of Aerospace Engineering and Applied Mechanics, Tongji University (transferred to the doctoral program)
-- 2023–2025: School of Aerospace Engineering and Applied Mechanics, Tongji University
-- 2023: B.Eng., Southwest Jiaotong University
+- 2025.3–present: Ph.D. student, School of Aerospace Engineering and Applied Mechanics, Tongji University (transferred to the doctoral program)
+- 2023.9–2025.3: Master's student, School of Aerospace Engineering and Applied Mechanics, Tongji University
+- 2023.6: B.Eng., Southwest Jiaotong University
 
 I work on phase-field modeling of fracture and fatigue, multiaxial fatigue life prediction, and deep energy methods. The solvers are written in Julia with Gridap and in Python with PyTorch and CUDA.
 
