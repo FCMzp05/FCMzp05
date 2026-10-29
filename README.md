@@ -38,7 +38,6 @@ I work on phase-field modeling of fracture and fatigue, multiaxial fatigue life 
 
 - Peng Zhang, Yongran Zhang, Jingqi Tang, and Keke Tang. [Applications and advances of deep learning in phase-field fracture computation](https://doi.org/10.15959/j.cnki.0254-0053.2026.03.012). *Chinese Quarterly of Mechanics* 47(3), 624–648 (2026).
 - Keke Tang, Peng Zhang, R. Zhang, Anbin Wang, and Zheng Zhong. [Application of explainable machine learning in metal fatigue life prediction: Methods, challenges and prospects](https://doi.org/10.15959/j.cnki.0254-0053.2025.02.001). *Chinese Quarterly of Mechanics* 46(2), 231–251 (2025).
-- Benjin Wang, Peng Zhang, Yujie Xiang, Dalei Wang, Baijian Wu, Xianqiao Wang, Keke Tang, and Airong Chen. [Advancing structural failure analysis with physics-informed machine learning in engineering applications](https://doi.org/10.1016/j.eng.2025.10.003). *Engineering* (2025).
 
 ## Submitted
 
